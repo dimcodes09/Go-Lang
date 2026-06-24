@@ -9,12 +9,12 @@
 must be double Quoted import "fmt"
 
 ## you can have multiple packages in Go
-learn different Pckages from standard library
+learn different Packages from standard library
 
 # fmt is go's package library 
 
 # why its package name is main why not any other thing ?
-we should use main because mainb is special package name that tells go that this package will be main entry
+we should use main because main is special package name that tells go that this package will be main entry.
 
 # " go: go.mod file not found in current directory or any parent directory; see 'go help modules' " whats this error??
 because you did not set any folder/site
