@@ -1,4 +1,4 @@
-$build a program that asks teh suer for amt tahta sks teh suer for investment on a horizon
+$ build a program that asks teh suer for amt tahta sks teh suer for investment on a horizon
 
 # Basic Types
 Go comes with a couple of built-in basic types:
@@ -43,3 +43,14 @@ bool => false
 
 
 # Instead of var we can use assignment op (:=) 
+
+# (&) Ampersand Symbol 
+& means "address of"
+
+Why do we use &?
+Some functions need to change the original variable.
+
+By writing:
+fmt.Scan(&name)
+you're telling Go:
+"Here's the address of name. Go to that location in memory and store the user's input there."
