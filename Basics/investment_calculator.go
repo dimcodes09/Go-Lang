@@ -25,3 +25,30 @@ func main(){
 	fmt.Print("Future Value:", futureValue)
 	fmt.Println("Future Value(adjusted for Inflation)" , futureRealValue)
 }
+
+
+// Program Starts
+//       │
+//       ▼
+// Import Packages
+//       │
+//       ▼
+// Create Constants
+//       │
+//       ▼
+// Create Variables
+//       │
+//       ▼
+// Take User Input
+//       │
+//       ▼
+// Calculate Future Value
+//       │
+//       ▼
+// Calculate Inflation Adjusted Value
+//       │
+//       ▼
+// Print Results
+//       │
+//       ▼
+// Program Ends

@@ -1,4 +1,4 @@
-$ build a program that asks teh suer for amt tahta sks teh suer for investment on a horizon
+$ build a program that asks the user for amt for investment on a horizon
 
 # Basic Types
 Go comes with a couple of built-in basic types:

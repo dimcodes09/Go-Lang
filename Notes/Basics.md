@@ -29,3 +29,28 @@ PS D:\Go> ./first-app
 HEllo World
 
 A module is simply a go project 
+
+
+# Mental Framework for Every Go Program
+Whenever you build any program, ask these questions in order:
+1. What is the problem?
+2. What inputs do I need?
+3. What outputs do I need?
+4. Which variables should I create?
+5. Which values are constants?
+6. Which packages are required?
+7. What calculations or logic are needed?
+8. How do I display the result?
+
+# How You Should Study Every Go Program
+Whenever you see code, don't ask:
+> "What is this calculator doing?"
+Instead ask:
+1. Which package is imported?
+2. What variables are created?
+3. Which variables come from user input?
+4. Which new variables are created using `:=`?
+5. Which Go functions are called (`Print`, `Scan`, `Println`, etc.)?
+6. What is the execution order?
+
+If you can answer those six questions, you're learning Go rather than memorizing an application's business logic.
