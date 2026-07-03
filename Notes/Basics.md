@@ -54,3 +54,11 @@ Instead ask:
 6. What is the execution order?
 
 If you can answer those six questions, you're learning Go rather than memorizing an application's business logic.
+
+# func outputText() 
+-> 
+Defining a function
+
+# fmt.Print()
+->
+CAlling a fn

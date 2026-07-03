@@ -22,4 +22,11 @@
 | 20 | Program Flow                      | Execution happens from top to bottom inside `main()`.                 |
 | 21 | :=                                | Creates a new variable and assigns a value.                           |
 | 22 | Ex:var price float64              |  Every variable in Go gets a zero value automatically.                |
+| 23 |fmt.Sprintf()                      |  Instead of printing, it returns a string.                            |
 | 23 |                                   |                                                                       |
+| 23 |                                   |                                                                       |
+| 23 |                                   |                                                                       |
+| 23 |                                   |                                                                       |
+| 23 |                                   |                                                                       |
+| 23 |                                   |                                                                       |
+
