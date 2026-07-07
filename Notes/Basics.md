@@ -62,3 +62,21 @@ Defining a function
 # fmt.Print()
 ->
 CAlling a fn
+
+# in go you only have for loop and it is flexible
+
+# someCondition is an expression that yields a boolean value or a variable that contains a boolean value (i.e., true or false).
+
+# In that case, the loop will continue to execute the code inside the loop body until the condition / variable yields false.
+
+# os.WriteFile()
+
+0644 is general way of defining permissions to access file
+
+# strconv
+-> it helps us with string functions 
+
+# no crash
+
+in go the app wont crash for ex:- like the error wont crash your code 
+you dont need try catch like other apps
