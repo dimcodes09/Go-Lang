@@ -80,3 +80,9 @@ CAlling a fn
 
 in go the app wont crash for ex:- like the error wont crash your code 
 you dont need try catch like other apps
+
+# Packages
+A package is a collection of related functions and code.
+You import a package when you need its functionality.
+
+# go dev avoids unecessary else
