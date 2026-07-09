@@ -85,4 +85,21 @@ you dont need try catch like other apps
 A package is a collection of related functions and code.
 You import a package when you need its functionality.
 
-# go dev avoids unecessary else
+# go dev avoids unecessary (else)
+
+
+# Reading a File 📥
+
+File
+↓
+os.ReadFile()
+↓
+[]byte
+↓
+string()
+↓
+string
+↓
+strconv.ParseFloat()
+↓
+float64
