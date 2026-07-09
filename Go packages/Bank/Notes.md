@@ -77,9 +77,7 @@ So till here we had learnt packages
    ```go
    package main
    ```
-
    to
-
    ```go
    package fileops
    ```
