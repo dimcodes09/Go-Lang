@@ -15,6 +15,7 @@ Go-Lang/
 ├── Go Essentials/
 ├── Go Packages/
 ├── Go Pointers/
+├── Go Structs/
 └── ...
 ```
 
